@@ -9,8 +9,8 @@ if(num % 2 == 0)
     printf("o numero digitado é par\n");
 }
 else{
-    
-printf("o numero digitado é impar");
+
+printf("o numero digitado é impar\n");
 
 }
 return 0;
