@@ -4,7 +4,7 @@ int main()
 {
     int final_placa;
     printf("digite o final da placa:\n");
-    scanf("%d", &final_placa)
+    scanf("%d", &final_placa);
 
             if(final_placa ==1){
         printf("voce nao pode sair com o veiculo na segunda feira\n");
